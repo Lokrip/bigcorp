@@ -2,7 +2,7 @@
 
 ## Description
 Bigcorp Shop is a Django e-commerce project with an API and various features.
-I created this pet project for the course in 2022 and forgot about it, it would be cool to put it in the repository as a souvenir
+I created this project in a course in 2022 and forgot about it, it would be cool to put it in the repository as a souvenir.
 
 ## Installation
 To run the project, follow these steps:
